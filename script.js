@@ -18,7 +18,7 @@ let data = [
     {
         'id': 'a3',
         'title': 'Musik Tradisi `Kusumo Sosrodilogo`',
-        'name': 'kusumososrodilogo.mp4',
+        'name': 'KusumoSosrodilogo.mp4',
         'duration': '8:00',
     },
 
