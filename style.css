@@ -197,8 +197,10 @@ body {
         width: 100%;
         white-space: normal;
         text-overflow: initial;
-        font-size: 1rem;
+        font-size: .9rem;
         padding: 0.5rem;
+        margin-left: 1.2rem;
         text-align: center;
+        border: 3px solid red;
     }
 }
