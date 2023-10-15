@@ -5,47 +5,45 @@ const video_playlist = document.querySelector('.video-playlist .videos');
 let data = [
     {
         'id': 'a1',
+        'title': 'Latihan Tembang Taman Jurug',
+        'name': 'latihan-taman-jurug2.mp4',
+        'duration': '1:08',
+    },
+    {
+        'id': 'a2',
+        'title': 'Latihan Tembang Pepeling',
+        'name': 'latihan-pepeling.mp4',
+        'duration': '1:08',
+    },
+    {
+        'id': 'a3',
+        'title': 'Cuplikan Latihan Tembang Tombo Ati',
+        'name': 'latihan-tombo-ati.mp4',
+        'duration': '1:08',
+    },
+    {
+        'id': 'a2',
+        'title': 'Cuplikan Latihan Gugur Gunung',
+        'name': 'latihan-gugur-gunung2.mp4',
+        'duration': '1:08',
+    },
+    {
+        'id': 'a4',
+        'title': 'Cuplikan Latihan Intro Prau Layar',
+        'name': 'intro-prau-layar.mp4',
+        'duration': '0:48',
+    },{
+        'id': 'a5',
         'title': 'Cuplikan Latihan Tembang Prau Layar',
         'name': 'latihan-prau-layar.mp4',
         'duration': '0:41',
     },
     {
-        'id': 'a2',
+        'id': 'a6',
         'title': 'Cuplikan Latihan Tembang Gugur Gunung',
         'name': 'latihan-gugur-gunung.mp4',
         'duration': '1:08',
-    },
-    {
-        'id': 'a3',
-        'title': 'Musik Tradisi `Kusumo Sosrodilogo`',
-        'name': 'KusumoSosrodilogo.mp4',
-        'duration': '8:00',
-    },
-
-    {
-        'id': 'a4',
-        'title': 'Karawitan SMPN 1 Sukosewu `Prau Layar`',
-        'name': 'prau-layar.mp4',
-        'duration': '4:33',
-    },
-    {
-        'id': 'a5',
-        'title': 'Karawitan SMPN 1 Sukosewu `Kebo Giro`',
-        'name': 'kebo-giro.mp4',
-        'duration': '2:45',
-    },
-    {
-        'id': 'a6',
-        'title': 'Karawitan SMPN 1 Sukosewu `Wahyu Sukolaras`',
-        'name': 'wahyu-sukolaras.mp4',
-        'duration': '4:31',
-    },
-    {
-        'id': 'a7',
-        'title': 'Karawitan SMPN 1 Sukosewu `Purnawiyata`',
-        'name': 'purnawiyata.mp4',
-        'duration': '3:47',
-    },
+    }
 
 ];
 
