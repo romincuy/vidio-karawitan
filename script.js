@@ -23,18 +23,12 @@ let data = [
     },
     {
         'id': 'a4',
-        'title': 'Cuplikan Latihan Gugur Gunung',
-        'name': 'latihan-gugur-gunung2.mp4',
-        'duration': '0:43',
-    },
-    {
-        'id': 'a5',
         'title': 'Cuplikan Latihan Tembang Prau Layar',
         'name': 'latihan-prau-layar.mp4',
         'duration': '0:41',
     },
     {
-        'id': 'a6',
+        'id': 'a5',
         'title': 'Cuplikan Latihan Tembang Gugur Gunung',
         'name': 'latihan-gugur-gunung.mp4',
         'duration': '1:08',
